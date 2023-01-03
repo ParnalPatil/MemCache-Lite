@@ -1,0 +1,1 @@
+{"parnal": ["patil", 5], "cricket": ["bat", 4], "table": ["tennis", 6], "lawn": ["tennis", 6], "tony": ["stark", 5], "abc": ["def", 3], "xyz": ["abc", 3], "paritosh": ["sabade", 6], "random": ["random", 6]}
